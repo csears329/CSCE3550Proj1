@@ -1,0 +1,17 @@
+these are the AI prompts I used in chatGPT to help create this project:
+
+Can you explain each part of a python RSA Key generation for a beginner in python?
+
+How do I create a FastAPI server in python?
+
+What commands do I run to test the endpoints?
+
+I tried using the curl command and I'm not getting a response
+
+(Several prompts of just me pasting devastatingly long and unreadable error messages/tokens)
+
+How would I test the endpoints with the expired key?
+
+How would I run an executable test client against my server?
+
+How do I fix the 401 unauthorized error?
